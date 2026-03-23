@@ -17,7 +17,7 @@
 <h1 align="left">Garda Wilson</h1>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=1000&color=888888&vCenter=true&width=480&lines=FULLSTACK+DEVELOPER+·+MEDAN%2C+INDONESIA;Flutter+·+Node.js+·+Android+·+SQL;Building+systems+that+matter" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=13&duration=2800&pause=1000&color=888888&vCenter=true&width=480&lines=FULLSTACK+DEVELOPER+%C2%B7+MEDAN%2C+INDONESIA;Flutter+%C2%B7+Node.js+%C2%B7+Android+%C2%B7+SQL;Building+systems+that+matter" alt="Typing SVG" />
 </p>
 
 <img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1&section=header" />
