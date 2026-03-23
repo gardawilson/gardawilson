@@ -1,134 +1,169 @@
-<!-- ─────────────────────────────────────────────── -->
-<!--            GARDA WILSON · GitHub Profile        -->
-<!-- ─────────────────────────────────────────────── -->
+<!-- ============================================= -->
+<!--         GARDA WILSON · GitHub Profile          -->
+<!--              Dark Brutalist Mono               -->
+<!-- ============================================= -->
 
-<img width="100%" height="3px" src="https://capsule-render.vercel.app/api?type=rect&color=1D9E75&height=3&section=header" />
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=4&section=header" />
+</div>
 
 <br/>
 
-<!-- Eyebrow -->
+<!-- HEADER -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=3000&pause=1200&color=1D9E75&vCenter=true&width=480&lines=fullstack+developer+%C2%B7+medan%2C+indonesia;flutter+%C2%B7+node.js+%C2%B7+android+%C2%B7+sql;building+systems+that+matter" alt="Typing SVG" />
+  <sub><code>// gardawilson</code></sub>
 </p>
 
-<!-- Headline -->
-<h1 align="left" style="font-size:2.8rem;font-weight:600;margin:0">Garda Wilson</h1>
+<h1 align="left">Garda Wilson</h1>
+
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=13&duration=2800&pause=1000&color=888888&vCenter=true&width=480&lines=FULLSTACK+DEVELOPER+·+MEDAN%2C+INDONESIA;Flutter+·+Node.js+·+Android+·+SQL;Building+systems+that+matter" alt="Typing SVG" />
+</p>
+
+<img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1&section=header" />
 
 <br/>
 
-<!-- Accent divider -->
-<img width="60px" height="3px" src="https://capsule-render.vercel.app/api?type=rect&color=1D9E75&height=3&section=header" />
-
-<br/><br/>
-
-<!-- Intro -->
-<blockquote>
-I build end-to-end systems — from mobile UIs to backend APIs —<br/>
-for real-world enterprise and manufacturing operations.
-</blockquote>
-
-<br/>
-
----
-
-<!-- ── COLUMNS: Stack | About ── -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
-
+<!-- STACK + LANGUAGES TABLE -->
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
 <td width="50%" valign="top">
 
-**Stack**
+<sub><code>// stack</code></sub>
 
 | Layer | Technologies |
-|-------|-------------|
-| Mobile | Flutter · Dart · Android · Java |
-| Backend | Node.js · .NET · PHP / CodeIgniter |
-| Database | SQL Server · MySQL |
+|:------|:------------|
+| `mobile` | Flutter · Dart · Android · Java |
+| `backend` | Node.js · .NET · PHP · CodeIgniter |
+| `database` | SQL Server · MySQL |
+| `arch` | REST API · MVC · MVVM |
 
 </td>
+<td width="2%"></td>
+<td width="48%" valign="top">
 
-<td width="8%"></td>
-
-<td width="42%" valign="top">
-
-**Focus areas**
+<sub><code>// focus</code></sub>
 
 ```
 📱  Cross-platform mobile apps
 ⚙️  Enterprise backend systems
 🗄️  Database design & optimization
 🏭  Manufacturing & production ops
+🔗  REST API & system integration
 ```
 
 </td>
+</tr>
+</table>
 
-</tr></table>
+<img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1&section=header" />
 
 <br/>
 
----
+<!-- BADGES -->
+<sub><code>// tech</code></sub>
 
-<!-- ── STATS ROW ── -->
+<br/><br/>
 
-**GitHub Stats**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<br/>
 
+<img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1&section=header" />
+
+<br/>
+
+<!-- STATS -->
+<sub><code>// stats</code></sub>
+
+<br/><br/>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
 <td width="52%" valign="top">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=gardawilson&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=1D9E75&icon_color=1D9E75)
+![Stats](https://github-readme-stats.vercel.app/api?username=gardawilson&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&title_color=ffffff&icon_color=888888&text_color=888888&bg_color=0d1117)
 
 </td>
-
 <td width="48%" valign="top">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardawilson&layout=compact&theme=default&hide_border=true&langs_count=6&title_color=1D9E75)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gardawilson&layout=compact&theme=dark&hide_border=true&langs_count=6&title_color=ffffff&text_color=888888&bg_color=0d1117)
 
 </td>
-
-</tr></table>
+</tr>
+</table>
 
 <br/>
 
-<!-- Streak -->
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gardawilson&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=1D9E75&fire=1D9E75&currStreakLabel=1D9E75)](https://git.io/streak-stats)
+![Streak](https://streak-stats.demolab.com?user=gardawilson&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&background=0d1117&stroke=222222&ring=ffffff&fire=888888&currStreakLabel=888888&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff)
 
 </div>
 
 <br/>
 
----
-
-<!-- ── SNAKE ANIMATION ── -->
-
-**Contribution Graph**
-
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/gardawilson/gardawilson/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/gardawilson/gardawilson/output/snake.svg"
-    alt="contribution snake animation" width="100%" />
-</picture>
+<img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1&section=header" />
 
 <br/>
 
----
+<!-- ACTIVITY GRAPH -->
+<sub><code>// activity</code></sub>
 
-<!-- ── FOOTER ── -->
+<br/><br/>
 
-<img width="100%" height="3px" src="https://capsule-render.vercel.app/api?type=rect&color=1D9E75&height=3&section=footer" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gardawilson&theme=github-compact&hide_border=true&area=true&color=888888&line=ffffff&point=ffffff&area_color=222222&bg_color=0d1117" width="100%" />
+</div>
+
+<br/>
+
+<!-- SNAKE -->
+<sub><code>// contributions</code></sub>
+
+<br/><br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)"
+      srcset="https://raw.githubusercontent.com/gardawilson/gardawilson/output/snake-dark.svg" />
+    <img src="https://raw.githubusercontent.com/gardawilson/gardawilson/output/snake.svg"
+      alt="contribution snake" width="100%" />
+  </picture>
+</div>
+
+<br/>
+
+<img width="100%" height="1" src="https://capsule-render.vercel.app/api?type=rect&color=222222&height=1&section=header" />
+
+<br/>
+
+<!-- FOOTER -->
+<div align="center">
+
+<sub>
+  <code>
+    <img src="https://komarev.com/ghpvc/?username=gardawilson&style=flat-square&color=333333&label=views" alt="views" />
+    &nbsp;·&nbsp;
+    <a href="https://github.com/gardawilson">github.com/gardawilson</a>
+    &nbsp;·&nbsp;
+    Medan, North Sumatra, Indonesia
+  </code>
+</sub>
+
+</div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gardawilson&style=flat-square&color=1D9E75&label=profile+views" alt="profile views" />
-  &nbsp;&nbsp;
-  <a href="https://github.com/gardawilson">
-    <img src="https://img.shields.io/badge/github.com%2Fgardawilson-1D9E75?style=flat-square&logo=github&logoColor=white" />
-  </a>
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Medan%2C%20Indonesia-grey?style=flat-square" />
+  <img width="100%" height="4" src="https://capsule-render.vercel.app/api?type=rect&color=0a0a0a&height=4&section=footer" />
 </div>
-
-<br/>
