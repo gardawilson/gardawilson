@@ -147,18 +147,14 @@
 
 <br/>
 
-<!-- FOOTER -->
+<!-- ── FOOTER ── -->
 <div align="center">
 
-<sub>
-  <code>
-    <img src="https://komarev.com/ghpvc/?username=gardawilson&style=flat-square&color=333333&label=views" alt="views" />
-    &nbsp;·&nbsp;
-    <a href="https://github.com/gardawilson">github.com/gardawilson</a>
-    &nbsp;·&nbsp;
-    Medan, North Sumatra, Indonesia
-  </code>
-</sub>
+![Profile Views](https://komarev.com/ghpvc/?username=gardawilson&style=flat-square&color=555555&label=views)
+&nbsp;
+![](https://img.shields.io/badge/github.com%2Fgardawilson-333333?style=flat-square&logo=github&logoColor=white)
+&nbsp;
+![](https://img.shields.io/badge/Medan%2C_Indonesia-333333?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
 
